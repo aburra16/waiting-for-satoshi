@@ -28,6 +28,7 @@ Copyright © 2025 Avi Burra.  All rights reserved.
 GIOVANNI : A 42-year-old married man with teenage children.
 MAXIMILIAN : A 42-year-old single man and childhood friend of Giovanni’s.
 
+(Offstage voices via phone texts: Cassandra, teenagers, barista, etc. — unheard.)
 
 SETTING : A well-maintained park in an upscale neighborhood of an undisclosed town.  
 TIME    : The present — exactly twenty-one years after their first “wait.”
