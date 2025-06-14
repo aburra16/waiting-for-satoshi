@@ -28,7 +28,6 @@ Copyright © 2025 Avi Burra.  All rights reserved.
 GIOVANNI : late-forties family man.  Worn shoes, loyal heart, quick wit.
 MAXIMILIAN : late-forties itinerant artist.  Scuffed boots, wild ideas.
 
-(Offstage voices via phone texts: Cassandra, teenagers, barista, etc. — unheard.)
 
 SETTING:  A public park.  Autumn afternoon straight through dusk.
 TIME:     The present — exactly twenty-one years after their first “wait.”
