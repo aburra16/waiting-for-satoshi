@@ -22,25 +22,104 @@ Copyright © 2025 Avi Burra.  All rights reserved.
                                                                        avi@casanostra.ink
 ```
 ```plaintext
-                         CAST OF CHARACTERS
-                         ___________________
+                      CAST OF CHARACTERS
+                      ___________________
 
-GIOVANNI : late-forties family man.  Worn shoes, loyal heart, quick wit.
-MAXIMILIAN : late-forties itinerant artist.  Scuffed boots, wild ideas.
-
-
-SETTING:  A public park.  Autumn afternoon straight through dusk.
-TIME:     The present — exactly twenty-one years after their first “wait.”
+GIOVANNI : A 42-year-old married man with teenage children.
+MAXIMILIAN : A 42-year-old single man and childhood friend of Giovanni’s.
 
 
+SETTING : A well-maintained park in an upscale neighborhood of an undisclosed town.  
+TIME    : The present — exactly twenty-one years after their first “wait.”
 
 
 
-                         _ONE  ACT_   (no intermission)
+ACT 1
 
-            (Late afternoon.  A wooden bench beneath a red-leafed maple.
-            GIOVANNI sits; tie loosened, laptop bag at his feet.
-            MAXIMILIAN sprawls; paint-spattered satchel and sketchbook.)
+Scene 1
+
+SETTING:
+We are in a well-maintained park in an upscale neighborhood of an undisclosed town. There is a bench under a red maple tree.
+
+AT RISE:
+GIOVANNI is sitting on the left side of the bench as you face it, and MAXIMILIAN is sitting on the right. The two men are childhood friends, and as their lives have diverged with adulthood, they’ve made it a point to meet once a year on this very park bench, to catch up on the events of the year. This is one such meeting.
+
+
+
+                         GIOVANNI
+Here we are again, old friend.  Another year goes by in the blink of an eye,
+and I’m older, but none the wiser.
+
+                         MAXIMILIAN
+Oh, come now, Giovanni.  Surely you learned something new this past year.
+
+                         GIOVANNI
+            (sighs)
+My dear Maximilian, we are both now at an age when there’s nothing new under
+the sun.  What is there to my life, anyway?  I wake up, drop the kids off at
+school, go to work with people I don’t particularly care for, doing things
+that suck the soul out of me, end up at the pub with those very same vapid
+people, and then head back to a home where my wife starts nagging me with
+her new pet peeve, and my children complain about how their lives are lacking
+the latest consumer good they heard about in their Snapchat group.  It takes
+every ounce of strength I have left in me to resolve all of that without
+losing it on them.  At least that way, I can fall asleep without people
+screaming around me.  Every single weekday is the same.
+
+            (MAXIMILIAN chuckles.)
+
+                         MAXIMILIAN
+At least you have the weekends to look forward to.
+
+            (GIOVANNI scoffs.)
+
+                         GIOVANNI
+Weekends?  Don’t talk to me about weekends!  That’s when I’m an unpaid
+chauffeur, shuttling my kids to their various activities, pretending to
+make polite conversation with the other parents there, listening to them
+brag about their kids’ achievements, and occasionally talking about some
+stupid sports-ball game they saw.  How are any of these people real?
+Do they not have meaningful interests?  How can their lives revolve around
+their kids’ activities and major-league sports?  What about creativity?
+What about passion?  What about building something that makes the world a
+better place?
+
+            (He sighs deeply and stares ponderously into the distance.)
+
+I’m one to talk, though.  Look at me.  That’s my life too, isn’t it?
+What am I creating?  What am I building?  Nothing.  I’m just like them.
+Maybe I should just accept it.
+
+            (MAXIMILIAN looks at GIOVANNI kindly.)
+
+                         MAXIMILIAN
+You know, we’re waiting for...
+
+                         GIOVANNI
+            (earnestly)
+Yes, yes, I know.  We’re waiting for him, and he’s going to set us free.
+Yes, I do believe that.  But sometimes I do wonder, Max.  Do you realize
+this is the twenty-first year we’re meeting here on this very bench?  You
+left to travel the world when we were both twenty-one, and that’s when we
+made our pact to meet here once a year.  We’re forty-two now.  We’ve been
+waiting for him to come and fix everything ever since then.  Well, where is
+he?
+
+                         MAXIMILIAN
+All I know is that he’s coming.  He’s coming this year, Gio, I can feel it.
+And once he’s here, he’s going to show us the way.  Everything we’ve found
+lacking in our lives, he will set right.  We will experience a joy and
+freedom that we’ve only dreamed of.
+
+                         GIOVANNI
+            (stares at MAXIMILIAN skeptically)
+What’s lacking in your life, anyway?  You got to pursue your dreams, you
+studied the arts, you became an actor, then a playwright.  You travel the
+world as a judge at film festivals.  You spend your time with painters and
+poets.  You don’t have a family that depends on you and makes constant
+claims to your time and attention when all you want is to be left alone to
+your thoughts.  You’re already free, Max, don’t you realize that?  You don’t
+need Satoshi.  I’m the only one waiting for him.
 
                          MAXIMILIAN
 You honestly think that’s a good life? … fleeting, vacuous relationships …
@@ -51,7 +130,7 @@ there is no meaning or purpose to my life.  It’s incredibly lonely and empty.
 
                          GIOVANNI
             (gently)
-Well, then—good.  We’ve established that you envy my chaos and I envy your
+Well, then, good.  We’ve established that you envy my chaos and I envy your
 freedom.  A perfectly balanced misery.  Shall we go home?
 
                          MAXIMILIAN
@@ -59,7 +138,7 @@ freedom.  A perfectly balanced misery.  Shall we go home?
 Go home?  We can’t go home, Gio!  We’re waiting for Satoshi.
 
                          GIOVANNI
-Ah yes, him again.  The invisible handyman of the cosmos.  Tell me—will he
+Ah yes, him again.  The invisible handyman of the cosmos.  Tell me, will he
 also fix Cassandra’s leaking dishwasher, or only the metaphysical plumbing?
 
                          MAXIMILIAN
@@ -69,10 +148,10 @@ and your dishwasher will sing like an operetta.
                          GIOVANNI
             (snorts)
 Have you bought groceries this week?  Bread is twice what it was last year.
-My paycheck, meanwhile, is the same shrivelled raisin.
+My paycheck, meanwhile, is the same shriveled raisin.
 
                          MAXIMILIAN
-Exactly!  That’s why we need him.  Satoshi will set the numbers straight—
+Exactly!  That’s why we need him.  Satoshi will set the numbers straight -
 no more arbitrary expansion of whatever it is they expand.
 
                          GIOVANNI
@@ -81,7 +160,7 @@ You mean the currency?
                          MAXIMILIAN
             (claps hands over his ears)
 Shh!  You’ll summon auditors.  Just call it “the ever-swelling soufflé.”
-Satoshi will pop it and serve us something firm—something that holds its shape.
+Satoshi will pop it and serve us something firm... something that holds its shape.
 
                          GIOVANNI
             (dry)
@@ -98,7 +177,7 @@ buying two ounces of cheese without taking out a loan.
 
                          MAXIMILIAN
             (taps temple)
-Think bigger: barter art for cheese, cheese for candles, candles for…
+Think bigger: barter art for cheese, cheese for candles, candles for...
 more art.  A graceful circle.
 
                          GIOVANNI
@@ -107,7 +186,7 @@ want a straight line from work to worth.
 
                          MAXIMILIAN
 Lines are brittle.  Circles bend.  Satoshi is a circle made of straight
-lines—trust me.
+lines, trust me.
 
                          GIOVANNI
 Stop speaking in geometry.  Last night my eldest asked if we could start
@@ -142,7 +221,7 @@ And Satoshi will un-adjust it?
 
                          MAXIMILIAN
 No.  He’ll make adjusting impossible.  Imagine a scale nobody can tamper
-with—goods stay honest, numbers behave.
+with... goods stay honest, numbers behave.
 
                          GIOVANNI
 Like my grandfather’s brass scale.
@@ -155,7 +234,7 @@ Exactly!  Only invisible and everywhere.  Brass in cyberspace.
 I’m too old for invisible brass.
 
                          MAXIMILIAN
-Tell Cassandra to hold fast.  Relief is en route—on horseback, perhaps, or
+Tell Cassandra to hold fast.  Relief is en route, on horseback, perhaps, or
 via peer-to-peer teleportation.
 
                          GIOVANNI
@@ -185,15 +264,15 @@ I’m nothing if not consistent.
 
                          GIOVANNI
 Let’s change the subject before I pawn my wedding ring for bread.  Tell me,
-worldly wanderer—what have you learned about the meaning of life?
+worldly wanderer, what have you learned about the meaning of life?
 
                          MAXIMILIAN
-The meaning of life?  Easy.  It’s art.  And love.  And sunrise on wet
+The meaning of life?  Easy.  It’s art.  The pursuit of beauty. And love.  And sunrise on wet
 cobblestones.  And also a decent espresso.
 
                          GIOVANNI
             (counts fingers)
-Art, love, sunrise, espresso.  You forgot taxes, dental cleanings, and
+Art, love, beauty, sunrise, espresso.  You forgot taxes, dental cleanings, and
 teenagers.
 
                          MAXIMILIAN
@@ -209,7 +288,7 @@ Then you, my friend, are living the advanced curriculum.
                          GIOVANNI
 If this is advanced, I’d like remedial.
             (He sighs, then grows quiet.)
-Max… do you ever fear we’re spectators in our own stories?  Always waiting
+Max... do you ever fear we’re spectators in our own stories?  Always waiting
 for the next act, never stepping onstage?
 
                          MAXIMILIAN
@@ -223,7 +302,7 @@ Twenty-one years.  In that time they built three museums, each uglier than
 the last.
 
                          MAXIMILIAN
-Aesthetic ebb and flow.  First, builders soared—arches, columns, domes.
+Aesthetic ebb and flow.  First, builders soared - arches, columns, domes.
 Then came rebels: angled walls, melted clocks, lampposts wearing bowler hats.
 
                          GIOVANNI
@@ -254,14 +333,13 @@ Midpoint craft.  Sounds like woodworking class.
             (grins)
 Exactly!  Only with skyscrapers.  Imagine steel that curves like a violin,
 glass that catches dawn and breaks it into hymns.  No priest with a ruler,
-no critic with a sledgehammer—just pure pursuit.
+no critic with a sledgehammer... just pure pursuit.
 
                          GIOVANNI
 And Satoshi funds this?
 
                          MAXIMILIAN
-Not funds—enables.  When value rests on bedrock, patrons sprout like
-dandelions.  Artists stop begging, start building.
+Not funds, enables.  When value rests on bedrock, when we have an honest measure, patrons sprout like dandelions.  Artists stop begging, start building.
 
                          GIOVANNI
 You paint a lovely future.  Pity we’re stuck in plywood present.
@@ -277,7 +355,7 @@ I haven’t sketched since college.
 Your pencil remembers.  Trust the graphite.
 
                          GIOVANNI
-Honest measure… You sound like my grandfather weighing apples on a brass
+Honest measure... You sound like my grandfather weighing apples on a brass
 scale.
 
                          MAXIMILIAN
@@ -317,7 +395,8 @@ Or we waited for ourselves.
 Explain.
 
                          MAXIMILIAN
-Maybe… maybe Satoshi is a mirror.  We look into the myth until we finally
+            (slowly at first, then increasingly excitedly)
+Maybe... maybe, we were wrong all this while, Gio. All these years, we've been waiting for an external savior... waiting for permission from some nebulous someone to truly live our live. What if Satoshi is a mirror?  We look into the myth until we finally
 see our own faces staring back.
 
                          GIOVANNI
@@ -325,12 +404,12 @@ I never liked mirrors.
 
                          MAXIMILIAN
 Nor I.  But consider: your longing for creative purpose, my craving for
-home—what if he isn’t bringing those gifts?  What if he’s been waiting for
+home... what if he isn’t bringing those gifts?  What if he’s been waiting for
 us to give them to each other?
 
                          GIOVANNI
             (half-laugh)
-You mean—I teach you how to file taxes, and you teach me how to paint?
+You mean, I teach you how to file taxes, and you teach me how to paint?
 
                          MAXIMILIAN
 Precisely.  Mutual aid, self-sovereignty, all that jazz.
@@ -366,7 +445,7 @@ All right.
             (They lock eyes, speak in unison.)
 He isn’t coming.
 
-            (The words echo.  Nothing happens—no thunderbolt, no trumpet.
+            (The words echo.  Nothing happens. No thunderbolt, no trumpet.
             Just relief.)
 
                          GIOVANNI
@@ -375,7 +454,7 @@ We survived.
 
                          MAXIMILIAN
             (laughter bubbles up)
-Feels… light, doesn’t it?
+Feels... light, doesn’t it?
 
                          GIOVANNI
 Weightless.
@@ -396,12 +475,12 @@ Terrible idea.
                          GIOVANNI
 Agreed.
             (He glances at the horizon—first hint of sunset.)
-Let’s go home.  Or better—let’s build a home where art pays the bills and
+Let’s go home.  Or better, let’s build a home where art pays the bills and
 bills respect art.
 
                          MAXIMILIAN
             (eyes shining)
-A midpoint craft—for real.
+A midpoint craft, for real.
 
                          GIOVANNI
             (extends hand)
