@@ -126,8 +126,8 @@ need Satoshi.  I’m the only one waiting for him.
 You honestly think that’s a good life? … fleeting, vacuous relationships …
 there is no meaning or purpose to my life.  It’s incredibly lonely and empty.
 
-                         (The men sit in silence.  A breeze rustles the maple.
-                         GIOVANNI scratches his beard; MAXIMILIAN kicks at a pebble.)
+            (The men sit in silence.  A breeze rustles the maple.
+             GIOVANNI scratches his beard; MAXIMILIAN kicks at a pebble.)
 
                          GIOVANNI
             (gently)
@@ -356,13 +356,13 @@ I haven’t sketched since college.
 Your pencil remembers.  Trust the graphite.
 
                          GIOVANNI
-Honest measure... You sound like my grandfather weighing apples on a brass
+Honest measure... You sound like my grandfather weighing apples on his brass
 scale.
 
                          MAXIMILIAN
-He was ahead of his time.  Imagine painters paid in something that can’t be
-diluted, buildings funded without hidden termites of inflation.  That’s the
-new era.
+Ah, that famous brass scale again. Well, He was ahead of his time.  Imagine painters
+paid in something that can’t be diluted, buildings funded without hidden termites of
+inflation.  That’s the new era.
 
                          GIOVANNI
 Bold vision, Max.  Meanwhile, Cassandra texts me the price of olive oil.  She
