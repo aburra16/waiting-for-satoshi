@@ -29,7 +29,7 @@ GIOVANNI : A 42-year-old married man with teenage children.
 MAXIMILIAN : A 42-year-old single man and childhood friend of Giovanni’s.
 
 SETTING : A well-maintained park in an upscale neighborhood of an undisclosed town.  
-TIME    : The present — exactly twenty-one years after their first “wait.”
+TIME    : The near future — exactly twenty-one years after their first “wait.”
 
 
 
