@@ -28,8 +28,10 @@ Copyright © 2025 Avi Burra.  All rights reserved.
 GIOVANNI : A 42-year-old married man with teenage children.
 MAXIMILIAN : A 42-year-old single man and childhood friend of Giovanni’s.
 
+(Offstage voices via phone texts: Cassandra, teenagers, barista, etc. — unheard.)
+
 SETTING : A well-maintained park in an upscale neighborhood of an undisclosed town.  
-TIME    : The near future — exactly twenty-one years after their first “wait.”
+TIME    : The present — exactly twenty-one years after their first “wait.”
 
 
 
@@ -89,10 +91,59 @@ I’m one to talk, though.  Look at me.  That’s my life too, isn’t it?
 What am I creating?  What am I building?  Nothing.  I’m just like them.
 Maybe I should just accept it.
 
+                         MAXIMILIAN
+            (very quietly)
+Do you know what I’d accept in a heartbeat?  A door that clicks shut behind
+me at night and opens to little voices shouting “Daddy!”  I spend evenings
+in hotel rooms where the mini-bar hums louder than my own thoughts.
+
+                         GIOVANNI
+That’s not envy talking, just jet-lag.  Wait until one of those little voices
+throws a half-eaten yogurt at your head because it’s the wrong flavor.
+
+                         MAXIMILIAN
+Luxury!  An airborne dairy product implies a refrigerator, a routine, a
+reason.  Last month in Cais-Cais I awoke at noon, stared at the ceiling, and
+asked myself, “Am I breakfast, or am I dinner running late?”
+
+                         GIOVANNI
+You, my friend, are brunch-pretentious, over-priced, and served with a tiny
+umbrella.
+
+                         MAXIMILIAN
+            (laughs, then softens)
+But brunch alone grows stale.  You say Cassandra nags... fine.  My last steady
+conversation was with an airline chatbot named L.U.C.Y.  At least Cassandra
+argues in complete sentences.
+
+                         GIOVANNI
+Her sentences are complete; my patience is not.
+
+                         MAXIMILIAN
+Still, she is sentence... subject, verb, object, purpose.  Purpose is gravity.
+Without it, my feet drift.  Museums, festivals... brilliant on paper, but when
+I win an award there’s no one in the audience mouthing “That’s my guy!”
+
+                         GIOVANNI
+            (teasing)
+You could marry L.U.C.Y.  She already knows your seat preference.
+
+                         MAXIMILIAN
+She denies me leg-room upgrades. Clearly a doomed romance.
+            (beat)
+Gio, I love the wind at my back, but sometimes I envy the roof over yours.
+
+                         GIOVANNI
+And I envy your sky.  Perhaps we should trade a shingle for a breeze.
+
+                         MAXIMILIAN
+            (smiles)
+We will.. when he arrives bearing deeds and parachutes.
+
             (MAXIMILIAN looks at GIOVANNI kindly.)
 
                          MAXIMILIAN
-You know, we’re waiting for...
+You do know, we *are* waiting for...
 
                          GIOVANNI
             (earnestly)
@@ -124,8 +175,8 @@ need Satoshi.  I’m the only one waiting for him.
 You honestly think that’s a good life? … fleeting, vacuous relationships …
 there is no meaning or purpose to my life.  It’s incredibly lonely and empty.
 
-            (The men sit in silence.  A breeze rustles the maple.
-             GIOVANNI scratches his beard; MAXIMILIAN kicks at a pebble.)
+                         (The men sit in silence.  A breeze rustles the maple.
+                         GIOVANNI scratches his beard; MAXIMILIAN kicks at a pebble.)
 
                          GIOVANNI
             (gently)
@@ -354,13 +405,13 @@ I haven’t sketched since college.
 Your pencil remembers.  Trust the graphite.
 
                          GIOVANNI
-Honest measure... You sound like my grandfather weighing apples on his brass
+Honest measure... You sound like my grandfather weighing apples on a brass
 scale.
 
                          MAXIMILIAN
-Ah, that famous brass scale again. Well, He was ahead of his time.  Imagine painters
-paid in something that can’t be diluted, buildings funded without hidden termites of
-inflation.  That’s the new era.
+He was ahead of his time.  Imagine painters paid in something that can’t be
+diluted, buildings funded without hidden termites of inflation.  That’s the
+new era.
 
                          GIOVANNI
 Bold vision, Max.  Meanwhile, Cassandra texts me the price of olive oil.  She
