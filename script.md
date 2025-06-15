@@ -105,7 +105,7 @@ throws a half-eaten yogurt at your head because it’s the wrong flavor.
 
                          MAXIMILIAN
 Luxury!  An airborne dairy product implies a refrigerator, a routine, a
-reason.  Last month in Cais-Cais I awoke at noon, stared at the ceiling, and
+reason.  Last month in Caiscais I awoke at noon, stared at the ceiling, and
 asked myself, “Am I breakfast, or am I dinner running late?”
 
                          GIOVANNI
