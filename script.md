@@ -140,7 +140,7 @@ And I envy your sky.  Perhaps we should trade a shingle for a breeze.
 
                          MAXIMILIAN
             (smiles)
-We will.. when he arrives bearing deeds and parachutes.
+We will... when he arrives bearing deeds and parachutes.
 
             (MAXIMILIAN looks at GIOVANNI kindly.)
 
@@ -334,7 +334,7 @@ just with fresh pictures.  Maybe we’re the last two men alive who remember
 what it felt like to hold zeroes in our hands.
 
                          MAXIMILIAN
-In any event, Tell Cassandra to hold fast.  Relief is en route, on horseback, 
+In any event, tell Cassandra to hold fast.  Relief is en route, on horseback, 
 perhaps, or via peer-to-peer teleportation.
 
                          GIOVANNI
@@ -361,7 +361,7 @@ feeling.
                          GIOVANNI
             (warming to the game, pantomimes typing)
 No, it’s an email!  Subject line: “Project Satoshi - Go Live.”  And there’s a
-link.  You click it, Max, and it whisks you to a government looking portal
+link.  You click it, Max, and it whisks you to a government-looking portal
 with a thousand page terms-of-service agreement.  Do you accept?  Do you
 bind your soul to the digital future without reading the fine print?
 
@@ -417,9 +417,8 @@ Let him laugh. His foundation is sand; the tide is coming.
                          GIOVANNI
 Is it, Max? Or did Martin simply learn to swim while we’ve been sitting here,
 waiting for a boat?
-
-                         GIOVANNI
-Enough about flotation devices.  If I dwell on Martin any longer, I’ll start
+	    (beat)
+Anyway, enough about flotation devices.  If I dwell on Martin any longer, I’ll start
 appraising this bench for scrap value.  Tell me, worldly wanderer, what have 
 you learned about the meaning of life in the year gone by?
 
