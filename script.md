@@ -177,6 +177,25 @@ need Satoshi.  I’m the only one waiting for him.
 You honestly think that’s a good life? … fleeting, vacuous relationships …
 there is no meaning or purpose to my life.  It’s incredibly lonely and empty.
 
+                         GIOVANNI
+            (sharp)
+Oh, spare me the “lonely artist.”  You chose that.  You buy a ticket, you
+take the ride.  Nobody forces you to stare at masterpieces in silence; that’s
+a luxury item.  My life isn’t a luxury. It's a subscription service with no
+cancel button.
+
+                         MAXIMILIAN
+            (defensive)
+And you think I don’t pay?  My subscription is the phone that never rings
+unless it’s a gallery chasing a sale.  Your phone rings; people need you.
+That has value.
+
+                         GIOVANNI
+            (frustrated)
+No, Max.  They don’t need *me*. They need a driver, a wallet, a handyman.
+You’re not lonely for people; you’re lonely for purpose.  I’m drowning in it.
+You can’t drink purpose!
+
             (The men sit in silence.  A breeze rustles the maple.
              GIOVANNI scratches his beard; MAXIMILIAN kicks at a pebble.)
 
@@ -286,7 +305,36 @@ Exactly!  Only invisible and everywhere.  Brass in cyberspace.
 I’m too old for invisible brass.
 
                          MAXIMILIAN
-Tell Cassandra to hold fast.  Relief is en route, on horseback, perhaps, or
+            (reaches into jacket)
+Maybe brass is invisible, but paper isn’t.
+            (He unfolds a creased bill.)
+
+                         GIOVANNI
+The ten-million lira note.  My God... I haven’t seen one in years.  It’s
+worthless now; you could use it as a bookmark.
+
+                         MAXIMILIAN
+Not worthless.  A reminder.  This was their first move, remember?  “Take
+away the zeroes and everyone gets richer.”
+
+                         GIOVANNI
+And for a week we believed them.  Coffee cost ten lira instead of ten
+thousand.  We walked around like kings.
+
+                         MAXIMILIAN
+We were fools.  They didn’t erase zeroes; they erased memory.  They taught us
+that value is whatever they declare.  This note is our testament. The first
+line in the story of why we wait.  It says, “Never again.”
+
+                         GIOVANNI
+            (takes the bill, feels the fragile paper)
+To me it says something else now, Max.  It says, “Paper is paper.”  We sit
+here dreaming of invisible brass while they’re still printing this stuff - 
+just with fresh pictures.  Maybe we’re the last two men alive who remember
+what it felt like to hold zeroes in our hands.
+
+                         MAXIMILIAN
+In any event, Tell Cassandra to hold fast.  Relief is en route, on horseback, perhaps, or
 via peer-to-peer teleportation.
 
                          GIOVANNI
@@ -296,7 +344,38 @@ Peer-to-peer teleportation.  Excellent.
 But what if he never comes?  What if the bench swallows us and our children
 inherit only splinters?
 
+                         GIOVANNI
+You know what I thought about last night?  What if he came, but it was
+            (leans closer, conspiratorial)
+an email.  An email from a no-reply address.  We missed it.  It went to spam.
+
                          MAXIMILIAN
+Spam?  The genesis of a new world, filtered out by an algorithm hunting
+misspelled words?  Don’t be absurd.  His arrival would be a sign... a universal
+            (searches for the word)
+feeling.
+
+                         GIOVANNI
+            (warming to the game, pantomimes typing)
+No, it’s an email!  Subject line: “Project Satoshi - Go Live.”  And there’s a
+link.  You click it, Max, and it whisks you to a government looking portal
+with a thousand page terms-of-service agreement.  Do you accept?  Do you
+bind your soul to the digital future without reading the fine print?
+
+                         MAXIMILIAN
+            (playing along, anxious)
+Is there a search bar?  Can I search for the word “freedom”?  Or “art”?
+
+                         GIOVANNI
+You can!  You scroll and discover Section 21B, subsection C:  
+“*Art is permitted, provided it does not disrupt market stability.*”
+Your first painting in the brave new world, and it’s flagged by a bot for
+being “economically volatile.”  What do you do then?
+
+                         MAXIMILIAN
+            (drops the act, sober)
+We’re waiting for a revolution, Gio, not a software update.
+	    (beat)
 He’ll come.
 
                          GIOVANNI
@@ -314,9 +393,32 @@ I’m nothing if not consistent.
 
             (They share a wistful smile.)
 
+                         MAXIMILIAN
+We’re not like them, Gio. Never. Remember Martin Zuckergast?
+
                          GIOVANNI
-Let’s change the subject before I pawn my wedding ring for bread.  Tell me,
-worldly wanderer, what have you learned about the meaning of life?
+            (snorts)
+Martin. Of course I remember. Saw him last Christmas. Drives a German car the
+color of money. His children have names that sound like mutual funds.
+
+                         MAXIMILIAN
+And is he happy?
+
+                         GIOVANNI
+He’s… loud. He speaks of his portfolio the way we once spoke of changing the
+world. He called our waiting “poor asset allocation.” Then he laughed.
+
+                         MAXIMILIAN
+Let him laugh. His foundation is sand; the tide is coming.
+
+                         GIOVANNI
+Is it, Max? Or did Martin simply learn to swim while we’ve been sitting here,
+waiting for a boat?
+
+                         GIOVANNI
+Enough about flotation devices.  If I dwell on Martin any longer, I’ll start
+appraising this bench for scrap value.  Tell me, worldly wanderer, what have 
+you learned about the meaning of life in the year gone by?
 
                          MAXIMILIAN
 The meaning of life?  Easy.  It’s art.  The pursuit of beauty. And love.
@@ -380,7 +482,6 @@ rules yet hungry for grace.
 
                          GIOVANNI
 Midpoint craft.  Sounds like woodworking class.
-
                          MAXIMILIAN
             (grins)
 Exactly!  Only with skyscrapers.  Imagine steel that curves like a violin,
@@ -388,11 +489,41 @@ glass that catches dawn and breaks it into hymns.  No priest with a ruler,
 no critic with a sledgehammer... just pure pursuit.
 
                          GIOVANNI
-And Satoshi funds this?
+So.  Any signs?
 
                          MAXIMILIAN
-Not funds, enables.  When value rests on bedrock, when we have an honest measure,
-patrons sprout like dandelions.  Artists stop begging, start building.
+The signs are present.
+
+                         GIOVANNI
+As they were last year.  Name one.
+
+                         MAXIMILIAN
+The architects have run out of ideas.
+            (He gestures vaguely toward the skyline.)
+
+                         GIOVANNI
+A sure sign.  And?
+
+                         MAXIMILIAN
+A poet in Lisbon paid for his wine with a song.
+
+                         GIOVANNI
+            (dry)
+The bartender was tone-deaf and the wine was sour.  And the most important sign?
+
+                         MAXIMILIAN
+We are still here.
+
+                         GIOVANNI
+            (sighs, then looks out across the park)
+Yes.  We are still here.
+            (beat)
+So—back to your steel violins and glass hymns.  Satoshi funds this?
+
+                         MAXIMILIAN
+Not funds. Enables.  When value rests on bedrock, when we have an honest
+measure, patrons sprout like dandelions.  Artists stop begging, start
+building.
 
                          GIOVANNI
 You paint a lovely future.  Pity we’re stuck in plywood present.
