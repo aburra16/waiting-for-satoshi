@@ -109,7 +109,7 @@ reason.  Last month in Cais-Cais I awoke at noon, stared at the ceiling, and
 asked myself, “Am I breakfast, or am I dinner running late?”
 
                          GIOVANNI
-You, my friend, are brunch-pretentious, over-priced, and served with a tiny
+You, my friend, are brunch - pretentious, over-priced, and served with a tiny
 umbrella.
 
                          MAXIMILIAN
