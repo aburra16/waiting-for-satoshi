@@ -405,13 +405,13 @@ I haven’t sketched since college.
 Your pencil remembers.  Trust the graphite.
 
                          GIOVANNI
-Honest measure... You sound like my grandfather weighing apples on a brass
+Honest measure... You sound like my grandfather weighing apples on his brass
 scale.
 
                          MAXIMILIAN
-He was ahead of his time.  Imagine painters paid in something that can’t be
-diluted, buildings funded without hidden termites of inflation.  That’s the
-new era.
+Ah, there's that famous brass scale again. Well, he was ahead of his time.
+Imagine painters paid in something that can’t be diluted, buildings funded
+without hidden termites of inflation.  That’s the new era.
 
                          GIOVANNI
 Bold vision, Max.  Meanwhile, Cassandra texts me the price of olive oil.  She
@@ -446,8 +446,10 @@ Explain.
 
                          MAXIMILIAN
             (slowly at first, then increasingly excitedly)
-Maybe... maybe, we were wrong all this while, Gio. All these years, we've been waiting for an external savior... waiting for permission from some nebulous someone to truly live our live. What if Satoshi is a mirror?  We look into the myth until we finally
-see our own faces staring back.
+Maybe... maybe, we were wrong all this while, Gio. All these years, we've been
+waiting for an external savior... waiting for permission from some nebulous someone
+to truly live our lives. What if Satoshi is a mirror?  We stare into the myth until
+we finally see our own faces staring back.
 
                          GIOVANNI
 I never liked mirrors.
@@ -469,6 +471,7 @@ Precisely.  Mutual aid, self-sovereignty, all that jazz.
 Self-sovereignty.  Sounds expensive.
 
                          MAXIMILIAN
+            (pointedly)
 Cheaper than perpetual hope deferred.
 
             (A flock of pigeons lifts behind them, startling both.)
@@ -526,7 +529,7 @@ Terrible idea.
 Agreed.
             (He glances at the horizon—first hint of sunset.)
 Let’s go home.  Or better, let’s build a home where art pays the bills and
-bills respect art.
+bills respect art. 
 
                          MAXIMILIAN
             (eyes shining)
