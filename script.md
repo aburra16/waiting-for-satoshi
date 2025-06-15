@@ -557,13 +557,13 @@ Satoshi will sort the pantry soon enough.
                          GIOVANNI
             (looks at sky)
 But what if he never comes?  Truly?  What if the messenger lost our address?
-What if—
+What if...
             (voice cracks)
 What if there is no messenger?
 
                          MAXIMILIAN
             (rises, alarmed)
-There must be.  Otherwise—
+There must be.  Otherwise...
 
                          GIOVANNI
 Otherwise we waited for nothing.
