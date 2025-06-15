@@ -177,8 +177,8 @@ need Satoshi.  I’m the only one waiting for him.
 You honestly think that’s a good life? … fleeting, vacuous relationships …
 there is no meaning or purpose to my life.  It’s incredibly lonely and empty.
 
-                         (The men sit in silence.  A breeze rustles the maple.
-                         GIOVANNI scratches his beard; MAXIMILIAN kicks at a pebble.)
+            (The men sit in silence.  A breeze rustles the maple.
+             GIOVANNI scratches his beard; MAXIMILIAN kicks at a pebble.)
 
                          GIOVANNI
             (gently)
