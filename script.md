@@ -40,10 +40,14 @@ ACT 1
 Scene 1
 
 SETTING:
-We are in a well-maintained park in an upscale neighborhood of an undisclosed town. There is a bench under a red maple tree.
+We are in a well-maintained park in an upscale neighborhood of an undisclosed
+town. There is a bench under a red maple tree.
 
 AT RISE:
-GIOVANNI is sitting on the left side of the bench as you face it, and MAXIMILIAN is sitting on the right. The two men are childhood friends, and as their lives have diverged with adulthood, they’ve made it a point to meet once a year on this very park bench, to catch up on the events of the year. This is one such meeting.
+GIOVANNI is sitting on the left side of the bench as you face it, and MAXIMILIAN
+is sitting on the right. The two men are childhood friends, and as their lives
+have diverged with adulthood, they’ve made it a point to meet once a year on this
+very park bench, to catch up on the events of the year. This is one such meeting.
 
 
 
@@ -317,8 +321,8 @@ Let’s change the subject before I pawn my wedding ring for bread.  Tell me,
 worldly wanderer, what have you learned about the meaning of life?
 
                          MAXIMILIAN
-The meaning of life?  Easy.  It’s art.  The pursuit of beauty. And love.  And sunrise on wet
-cobblestones.  And also a decent espresso.
+The meaning of life?  Easy.  It’s art.  The pursuit of beauty. And love.
+And sunrise on wet cobblestones.  And also a decent espresso.
 
                          GIOVANNI
             (counts fingers)
@@ -389,7 +393,8 @@ no critic with a sledgehammer... just pure pursuit.
 And Satoshi funds this?
 
                          MAXIMILIAN
-Not funds, enables.  When value rests on bedrock, when we have an honest measure, patrons sprout like dandelions.  Artists stop begging, start building.
+Not funds, enables.  When value rests on bedrock, when we have an honest measure,
+patrons sprout like dandelions.  Artists stop begging, start building.
 
                          GIOVANNI
 You paint a lovely future.  Pity we’re stuck in plywood present.
