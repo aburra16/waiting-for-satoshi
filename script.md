@@ -334,14 +334,17 @@ just with fresh pictures.  Maybe we’re the last two men alive who remember
 what it felt like to hold zeroes in our hands.
 
                          MAXIMILIAN
-In any event, Tell Cassandra to hold fast.  Relief is en route, on horseback, perhaps, or
-via peer-to-peer teleportation.
+In any event, Tell Cassandra to hold fast.  Relief is en route, on horseback, 
+perhaps, or via peer-to-peer teleportation.
 
                          GIOVANNI
             (laughs despite himself)
 Peer-to-peer teleportation.  Excellent.
+            (pulls phone out of his pocket and glances at it)
+Speaking of Cassandra, she just texted me. Probably forgot that today was our 
+annual meeting and thinks I'm drunk at a pub somewhere.
             (beat)
-But what if he never comes?  What if the bench swallows us and our children
+But what if Satoshi never comes?  What if the bench swallows us and our children
 inherit only splinters?
 
                          GIOVANNI
